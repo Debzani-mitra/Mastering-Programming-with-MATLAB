@@ -1,0 +1,2 @@
+# Mastering-Programming-with-MATLAB
+This, a second course of a specialization, is offered by Vanderbilt University on Coursera.  It covers advanced programming concepts such as recursion, vectorization, function handles, algorithm efficiency and others. At the same time, it presents many features, such as  its support for object oriented programming, the new user interface design environment and Live Scripts.
